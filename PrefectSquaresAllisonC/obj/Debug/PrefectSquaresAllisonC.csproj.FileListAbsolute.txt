@@ -7,3 +7,12 @@ N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\U
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PrefectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PrefectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.exe
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PrefectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\bin\Debug\PrefectSquaresAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\bin\Debug\PrefectSquaresAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\bin\Debug\PrefectSquaresAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.frmPrefectSquares.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\PerfectSquaresAllisonC\PrefectSquaresAllisonC\obj\Debug\PrefectSquaresAllisonC.pdb
