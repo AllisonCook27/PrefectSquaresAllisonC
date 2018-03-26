@@ -30,10 +30,10 @@
         {
             this.btnStart = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.numNumber = new System.Windows.Forms.NumericUpDown();
-            this.lstPrefectsquare = new System.Windows.Forms.ListBox();
             this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
+            this.numNumber = new System.Windows.Forms.NumericUpDown();
+            this.lstPerfectsquare = new System.Windows.Forms.ListBox();
             this.lblEnter = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numNumber)).BeginInit();
@@ -60,6 +60,21 @@
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
+            // mniFile
+            // 
+            this.mniFile.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mniExit});
+            this.mniFile.Name = "mniFile";
+            this.mniFile.Size = new System.Drawing.Size(37, 20);
+            this.mniFile.Text = "File";
+            // 
+            // mniExit
+            // 
+            this.mniExit.Name = "mniExit";
+            this.mniExit.Size = new System.Drawing.Size(92, 22);
+            this.mniExit.Text = "Exit";
+            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
+            // 
             // numNumber
             // 
             this.numNumber.Location = new System.Drawing.Point(71, 102);
@@ -77,28 +92,13 @@
             0,
             0});
             // 
-            // lstPrefectsquare
+            // lstPerfectsquare
             // 
-            this.lstPrefectsquare.FormattingEnabled = true;
-            this.lstPrefectsquare.Location = new System.Drawing.Point(62, 128);
-            this.lstPrefectsquare.Name = "lstPrefectsquare";
-            this.lstPrefectsquare.Size = new System.Drawing.Size(138, 121);
-            this.lstPrefectsquare.TabIndex = 4;
-            // 
-            // mniFile
-            // 
-            this.mniFile.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mniExit});
-            this.mniFile.Name = "mniFile";
-            this.mniFile.Size = new System.Drawing.Size(37, 20);
-            this.mniFile.Text = "File";
-            // 
-            // mniExit
-            // 
-            this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(152, 22);
-            this.mniExit.Text = "Exit";
-            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
+            this.lstPerfectsquare.FormattingEnabled = true;
+            this.lstPerfectsquare.Location = new System.Drawing.Point(62, 128);
+            this.lstPerfectsquare.Name = "lstPerfectsquare";
+            this.lstPerfectsquare.Size = new System.Drawing.Size(138, 121);
+            this.lstPerfectsquare.TabIndex = 4;
             // 
             // lblEnter
             // 
@@ -116,13 +116,13 @@
             this.BackColor = System.Drawing.Color.PaleGreen;
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.lblEnter);
-            this.Controls.Add(this.lstPrefectsquare);
+            this.Controls.Add(this.lstPerfectsquare);
             this.Controls.Add(this.numNumber);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmPrefectSquares";
-            this.Text = "Prefect Squares by Allison C";
+            this.Text = "Perfect Squares by Allison C";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numNumber)).EndInit();
@@ -136,7 +136,7 @@
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.NumericUpDown numNumber;
-        private System.Windows.Forms.ListBox lstPrefectsquare;
+        private System.Windows.Forms.ListBox lstPerfectsquare;
         private System.Windows.Forms.ToolStripMenuItem mniFile;
         private System.Windows.Forms.ToolStripMenuItem mniExit;
         private System.Windows.Forms.Label lblEnter;

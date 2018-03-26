@@ -1,9 +1,9 @@
 ﻿/*
  * Created by: Allison Cook
- * Created on: Day-Month-Year
+ * Created on: 26 March, 2018
  * Created for: ICS3U Programming
- * Daily Assignment – Day # - Name of Program
- * This program...
+ * Daily Assignment – Day #21 - Perfect Square
+ * This program shows which numbers are perfect squares under the number input by the user
 */
 using System;
 using System.Collections.Generic;
@@ -37,7 +37,7 @@ namespace PrefectSquaresAllisonC
             double squareRootDouble;
 
             //clearing list
-            lstPrefectsquare.Items.Clear();
+            lstPerfectsquare.Items.Clear();
 
             //get the users ending vaulr
             endingvalue = Convert.ToInt32(numNumber.Value);
@@ -54,7 +54,7 @@ namespace PrefectSquaresAllisonC
                 if (squareRootDouble == squareRootInt)
                 {
                     //add to the list
-                    lstPrefectsquare.Items.Add(value + " is a perfect sqaure");
+                    lstPerfectsquare.Items.Add(value + " is a perfect sqaure");
 
                     //refresh
                     this.Refresh();

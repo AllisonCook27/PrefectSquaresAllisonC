@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PrefectSquaresForm.cs">
+    <Compile Include="PerfectSquaresForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PrefectSquaresForm.Designer.cs">
-      <DependentUpon>PrefectSquaresForm.cs</DependentUpon>
+    <Compile Include="PerfectSquaresForm.Designer.cs">
+      <DependentUpon>PerfectSquaresForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="PrefectSquareProgram.cs" />
+    <Compile Include="PerfectSquareProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="PrefectSquaresForm.resx">
-      <DependentUpon>PrefectSquaresForm.cs</DependentUpon>
+    <EmbeddedResource Include="PerfectSquaresForm.resx">
+      <DependentUpon>PerfectSquaresForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
